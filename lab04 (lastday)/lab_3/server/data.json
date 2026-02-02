@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "price": 59.99,
+      "quantity": 120,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    },
+    {
+      "id": 2,
+      "name": "Organic Cotton T-Shirt",
+      "price": 19.5,
+      "quantity": "3000",
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    },
+    {
+      "id": 3,
+      "name": "Mechanical Gaming Keyboard",
+      "price": 89.95,
+      "quantity": 45,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400"
+    },
+    {
+      "id": 4,
+      "name": "Stainless Steel Water Bottle",
+      "price": 24.99,
+      "quantity": 85,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400"
+    },
+    {
+      "id": 5,
+      "name": "Ergonomic Office Chair",
+      "price": 149,
+      "quantity": 15,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=400"
+    }
+  ]
+}

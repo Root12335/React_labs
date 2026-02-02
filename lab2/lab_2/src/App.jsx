@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+import ProductList from "./components/ProductList";
+
+function App() {
+  return (
+    <>
+      <ProductList />
+    </>
+=======
 import { useState } from "react";
 import ProductForm from "./components/ProductForm";
 import ProductTable from "./components/ProductTable";
@@ -28,6 +37,7 @@ function App() {
         </div>
       </div>
     </div>
+>>>>>>> origin/master
   );
 }
 
